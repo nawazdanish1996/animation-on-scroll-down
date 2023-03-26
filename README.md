@@ -12,4 +12,4 @@ The JavaScript file creates an IntersectionObserver object that listens for chan
 - https://nawazdanish1996.github.io/animation-on-scroll-down/
 
 ## code url:
-- 
+- https://github.com/nawazdanish1996/animation-on-scroll-down
